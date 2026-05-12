@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000" role="img" aria-label="vetcoders monogram">
+  <rect width="1000" height="1000" fill="#0e0e0e"></rect>
+  <rect x="60" y="60" width="880" height="880" fill="none" stroke="#f5f1e7" stroke-opacity="0.08"></rect>
+  <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" x="380" y="700" font-size="620" fill="#f5f1e7" letter-spacing="-30">v</text>
+  <rect x="640" y="290" width="38" height="410" fill="#c99a3b">
+    
+  </rect>
+  <circle cx="900" cy="100" r="6" fill="#3d7a72">
+    
+  </circle>
+</svg>
