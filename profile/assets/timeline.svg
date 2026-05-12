@@ -19,7 +19,7 @@
   <g transform="translate(280,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2024 · 12</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">first snippet</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">initial snippet</text>
   </g>
   <g transform="translate(440,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q1</text>
@@ -29,12 +29,12 @@
   <g transform="translate(600,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q2</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">first finetune</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">mlx finetune</text>
   </g>
   <g transform="translate(760,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q3</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">Vista scaffold</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">vista scaffold</text>
   </g>
   <g transform="translate(920,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q4</text>
@@ -44,13 +44,13 @@
   <g transform="translate(1060,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2026 · 01</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">Vibecrafted.</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">Vibecrafted<tspan fill="#c99a3b">-io</tspan></text>
   </g>
   <g transform="translate(1190,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="3" text-anchor="middle" fill="#a8d8c5">TODAY</text>
     <circle r="10" fill="none" stroke="#a8d8c5" stroke-width="1" opacity="0.45"></circle>
     <circle r="4.5" fill="#a8d8c5"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">vibecrafted<tspan fill="#a8d8c5">-io</tspan></text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">...</text>
   </g>
 
   <line x1="60" y1="270" x2="1220" y2="270" stroke="#1a1815" stroke-width="1"></line>
