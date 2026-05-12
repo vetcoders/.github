@@ -6,45 +6,45 @@
   <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" x="60" y="30" font-size="10" letter-spacing="3" fill="#6b6862">№ 001  ·  TIMELINE  ·  PROJECT → PRODUCT</text>
   <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" x="1220" y="30" font-size="10" letter-spacing="3" fill="#6b6862" text-anchor="end">NOV MMXXIV — MAY MMXXVI</text>
 
-  <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" x="60" y="110" font-size="38" fill="#e8e6e1">from cursor opened → a framework that <tspan fill="#a8d8c5">ships itself</tspan>.</text>
+  <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" x="60" y="110" font-size="38" fill="#e8e6e1">from terminal opened → a framework that <tspan fill="#a8d8c5">ships itself</tspan>.</text>
 
   <line x1="90" y1="220" x2="1190" y2="220" stroke="#23211e" stroke-width="1"></line>
   <line x1="90" y1="220" x2="1190" y2="220" stroke="#c99a3b" stroke-width="1" stroke-linecap="round"></line>
 
   <g transform="translate(120,220)">
-    <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2024 · 11</text>
+    <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2024 · 05</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">cursor opened</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">first prompt</text>
   </g>
   <g transform="translate(280,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2024 · 12</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">mudd ships</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">first snippet</text>
   </g>
   <g transform="translate(440,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q1</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">vista is born</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">first mcp</text>
   </g>
   <g transform="translate(600,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q2</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">loctree</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">first finetune</text>
   </g>
   <g transform="translate(760,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q3</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">aicx</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">Vista scaffold</text>
   </g>
   <g transform="translate(920,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2025 · Q4</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">vibecrafting</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">Loctree</text>
   </g>
   <g transform="translate(1060,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="2" text-anchor="middle" fill="#4a8a7a">2026 · 01</text>
     <circle r="3.5" fill="#c99a3b"></circle>
-    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">external audit</text>
+    <text font-family="&#39;Instrument Serif&#39;, &#39;Cormorant Garamond&#39;, Georgia, &#39;Times New Roman&#39;, serif" font-style="italic" y="28" font-size="18" text-anchor="middle" fill="#e8e6e1">Vibecrafted.</text>
   </g>
   <g transform="translate(1190,220)">
     <text font-family="ui-monospace, &#39;JetBrains Mono&#39;, &#39;IBM Plex Mono&#39;, Menlo, Consolas, monospace" y="-22" font-size="9" letter-spacing="3" text-anchor="middle" fill="#a8d8c5">TODAY</text>
