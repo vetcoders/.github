@@ -16,6 +16,12 @@ Tools for agents working in real codebases — and for the people guiding that w
 
 Vibecrafted is one part of that system.
 
+<img src="./assets/stack-diagram.svg" alt="scaffold → init → workflow → marbles → release" width="100%">
+
+## How we got here
+
+<img src="./assets/timeline.svg" alt="vetcoders timeline · Nov 2024 → today" width="100%">
+
 ## Family
 
 - **mother** — [LibraxisAI](https://github.com/LibraxisAI) · clinical AI, MLOps, infrastructure
