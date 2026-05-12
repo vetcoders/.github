@@ -1,6 +1,6 @@
 # Security Policy
 
-[VetCoders](https://github.com/VetCoders) ships software that runs in real codebases and real clinics. We treat security reports the way a clinic treats critical incidents — fast, quiet, structured.
+[vetcoders](https://github.com/vetcoders) ships software that runs in real codebases and real clinics. We treat security reports the way a clinic treats critical incidents — fast, quiet, structured.
 
 ---
 
@@ -10,7 +10,7 @@
 
 Send a private report to:
 
-- **VetCoders-specific:** [hello@vetcoders.io](mailto:hello@vetcoders.io)
+- **vetcoders-specific:** [hello@vetcoders.io](mailto:hello@vetcoders.io)
 - **Group / mother org:** [contact@libraxis.ai](mailto:contact@libraxis.ai)
 
 ### What to include
@@ -38,7 +38,7 @@ Send a private report to:
 
 In scope:
 
-- All public repos under [`github.com/VetCoders`](https://github.com/VetCoders) — unless explicitly archived
+- All public repos under [`github.com/vetcoders`](https://github.com/vetcoders) — unless explicitly archived
 - `vetcoders.io` — public org site
 - Production endpoints we operate (e.g. `vistavet.app`)
 
@@ -86,4 +86,4 @@ If you helped find and fix something here, your handle goes in this section by r
 
 ---
 
-<sub>© 2024–2026 LibraxisAI · VetCoders</sub>
+<sub>© 2024–2026 LibraxisAI · vetcoders</sub>

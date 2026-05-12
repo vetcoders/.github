@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" alt="VetCoders — tools and systems for agent work in real codebases. Project → Product." width="100%">
+  <img src="./assets/hero.png" alt="vetcoders — tools and systems for agent work in real codebases. Project → Product." width="100%">
 </p>
 
 ---
@@ -8,7 +8,7 @@ Founded by veterinarians. We build the tools and systems we needed for working w
 
 ## Start here
 
-This is the **VetCoders** org. You can start anywhere below — or pick a pinned repo above.
+This is the **vetcoders** org. You can start anywhere below — or pick a pinned repo above.
 
 ## What we build
 
@@ -25,7 +25,7 @@ Vibecrafted is one part of that system.
 
 - **General** — [hello@vetcoders.io](mailto:hello@vetcoders.io)
 - **Group / mother org** — [contact@libraxis.ai](mailto:contact@libraxis.ai)
-- **Security** — see [SECURITY.md](https://github.com/VetCoders/.github/blob/main/SECURITY.md)
+- **Security** — see [SECURITY.md](https://github.com/vetcoders/.github/blob/main/SECURITY.md)
 
 ## License
 

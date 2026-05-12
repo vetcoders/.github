@@ -1,6 +1,6 @@
 # Code of Conduct
 
-This applies to every public surface of the [VetCoders](https://github.com/VetCoders) organization — repos, issues, PRs, discussions, and any space where the org name appears.
+This applies to every public surface of the [vetcoders](https://github.com/vetcoders) organization — repos, issues, PRs, discussions, and any space where the org name appears.
 
 We work small. We work direct. The conduct rules below are short on purpose.
 
@@ -44,7 +44,7 @@ Reports are read by humans, not bots. Expect a reply within a few days. Confiden
 
 ## Scope
 
-This document covers the **VetCoders** GitHub org. Each repository may add additional rules in its own `CONTRIBUTING.md`. When the two conflict, the repo-level rule wins for that repo, but the org-level conduct (no harassment, etc.) is non-negotiable.
+This document covers the **vetcoders** GitHub org. Each repository may add additional rules in its own `CONTRIBUTING.md`. When the two conflict, the repo-level rule wins for that repo, but the org-level conduct (no harassment, etc.) is non-negotiable.
 
 Sister org [Loctree](https://github.com/Loctree) and mother org [LibraxisAI](https://github.com/LibraxisAI) maintain their own conduct documents.
 
